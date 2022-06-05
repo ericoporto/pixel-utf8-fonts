@@ -5,3 +5,5 @@ See in engine demo: https://ericoporto.github.io/pixel-utf8-font
 
 - unifont | [DOWNLOAD](unifont/unifont-14.0.04.ttf) | [LICENSE](unifont/LICENSE.txt)
 - pixel unicode | [DOWNLOAD](pixel_unicode/Pixel-UniCode.ttf) | [LICENSE](pixel_unicode/LICENSE.txt)
+- pixel operator | [DOWNLOAD](pixeloperator/PixelOperator.ttf) | [LICENSE](pixeloperator/LICENSE.txt)
+- pixel operator8 | [DOWNLOAD](pixeloperator8/PixelOperator8.ttf) | [LICENSE](pixeloperator8/LICENSE.txt)
