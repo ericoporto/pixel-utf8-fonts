@@ -1,0 +1,1 @@
+var gamefiles = ['Utf8_Pixel_Fonts.ags', 'acsetup.cfg'];
