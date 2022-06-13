@@ -2181,13 +2181,37 @@
                 <NewModeNumber>0</NewModeNumber>
                 <OnClick>btn_FontSwitch_OnClick</OnClick>
                 <PushedImage>0</PushedImage>
-                <Text>PxOperator</Text>
+                <Text>PxOperator8</Text>
                 <TextAlignment>TopCenter</TextAlignment>
                 <TextColor>65527</TextColor>
                 <Top>67</Top>
                 <Visible>True</Visible>
                 <Width>78</Width>
                 <ZOrder>3</ZOrder>
+              </GUIButton>
+              <GUIButton>
+                <ClickAction>RunScript</ClickAction>
+                <Clickable>True</Clickable>
+                <ClipImage>False</ClipImage>
+                <Enabled>True</Enabled>
+                <Font>7</Font>
+                <Height>21</Height>
+                <ID>4</ID>
+                <Image>0</Image>
+                <Left>1</Left>
+                <Locked>False</Locked>
+                <MouseoverImage>0</MouseoverImage>
+                <Name>btn_LanaPixel</Name>
+                <NewModeNumber>0</NewModeNumber>
+                <OnClick>btn_FontSwitch_OnClick</OnClick>
+                <PushedImage>0</PushedImage>
+                <Text>LanaPixel</Text>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>65527</TextColor>
+                <Top>90</Top>
+                <Visible>True</Visible>
+                <Width>78</Width>
+                <ZOrder>4</ZOrder>
               </GUIButton>
             </Controls>
           </GUIMain>
@@ -2687,6 +2711,20 @@
         <SourceFilename>C:\Users\erico\git\ericoporto\pixel-utf8-fonts\pixeloperator8\PixelOperator8.ttf</SourceFilename>
         <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>1</VerticalOffset>
+      </Font>
+      <Font>
+        <AutoOutlineStyle>Squared</AutoOutlineStyle>
+        <AutoOutlineThickness>1</AutoOutlineThickness>
+        <ID>7</ID>
+        <LineSpacing>0</LineSpacing>
+        <Name>LanaPixel</Name>
+        <OutlineFont>0</OutlineFont>
+        <OutlineStyle>Automatic</OutlineStyle>
+        <PointSize>11</PointSize>
+        <SizeMultiplier>1</SizeMultiplier>
+        <SourceFilename>C:\Users\erico\git\ericoporto\pixel-utf8-fonts\lanapixel\LanaPixel.ttf</SourceFilename>
+        <TTFMetricsFixup>None</TTFMetricsFixup>
+        <VerticalOffset>0</VerticalOffset>
       </Font>
     </Fonts>
     <Palette>
