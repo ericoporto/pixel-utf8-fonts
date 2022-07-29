@@ -2757,7 +2757,7 @@
         <LineSpacing>0</LineSpacing>
         <Name>PixelLocale</Name>
         <OutlineFont>0</OutlineFont>
-        <OutlineStyle>None</OutlineStyle>
+        <OutlineStyle>Automatic</OutlineStyle>
         <PointSize>9</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
         <SourceFilename>C:\Users\erico\git\ericoporto\pixel-utf8-fonts\pixellocale\pixellocale-v-1-4.ttf</SourceFilename>
