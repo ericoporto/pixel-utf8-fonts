@@ -677,7 +677,7 @@
               <Transparency>0</Transparency>
               <Visible>True</Visible>
               <Width>320</Width>
-              <ZOrder>0</ZOrder>
+              <ZOrder>2</ZOrder>
             </NormalGUI>
             <Controls>
               <GUILabel>
@@ -750,7 +750,7 @@
               <Transparency>0</Transparency>
               <Visible>True</Visible>
               <Width>320</Width>
-              <ZOrder>1</ZOrder>
+              <ZOrder>3</ZOrder>
             </NormalGUI>
             <Controls>
               <GUIButton>
@@ -1012,7 +1012,7 @@
               <Transparency>0</Transparency>
               <Visible>False</Visible>
               <Width>223</Width>
-              <ZOrder>2</ZOrder>
+              <ZOrder>4</ZOrder>
             </NormalGUI>
             <Controls>
               <GUIInventory>
@@ -1170,7 +1170,7 @@
               <Transparency>0</Transparency>
               <Visible>False</Visible>
               <Width>259</Width>
-              <ZOrder>0</ZOrder>
+              <ZOrder>2</ZOrder>
             </NormalGUI>
             <Controls>
               <GUIButton>
@@ -1619,7 +1619,7 @@
               <Transparency>0</Transparency>
               <Visible>False</Visible>
               <Width>259</Width>
-              <ZOrder>0</ZOrder>
+              <ZOrder>2</ZOrder>
             </NormalGUI>
             <Controls>
               <GUILabel>
@@ -1770,7 +1770,7 @@
               <Transparency>0</Transparency>
               <Visible>False</Visible>
               <Width>259</Width>
-              <ZOrder>0</ZOrder>
+              <ZOrder>2</ZOrder>
             </NormalGUI>
             <Controls>
               <GUILabel>
@@ -2003,7 +2003,7 @@
               <Transparency>0</Transparency>
               <Visible>False</Visible>
               <Width>205</Width>
-              <ZOrder>0</ZOrder>
+              <ZOrder>2</ZOrder>
             </NormalGUI>
             <Controls>
               <GUIButton>
@@ -2081,7 +2081,7 @@
               <Clickable>True</Clickable>
               <Height>140</Height>
               <ID>9</ID>
-              <Left>220</Left>
+              <Left>140</Left>
               <Name>gFontSwitcher</Name>
               <OnClick />
               <PopupStyle>Normal</PopupStyle>
@@ -2089,7 +2089,7 @@
               <Top>40</Top>
               <Transparency>0</Transparency>
               <Visible>True</Visible>
-              <Width>80</Width>
+              <Width>160</Width>
               <ZOrder>0</ZOrder>
             </NormalGUI>
             <Controls>
@@ -2236,6 +2236,30 @@
                 <Visible>True</Visible>
                 <Width>78</Width>
                 <ZOrder>5</ZOrder>
+              </GUIButton>
+              <GUIButton>
+                <ClickAction>RunScript</ClickAction>
+                <Clickable>True</Clickable>
+                <ClipImage>False</ClipImage>
+                <Enabled>True</Enabled>
+                <Font>9</Font>
+                <Height>21</Height>
+                <ID>6</ID>
+                <Image>0</Image>
+                <Left>81</Left>
+                <Locked>True</Locked>
+                <MouseoverImage>0</MouseoverImage>
+                <Name>btn_k8x12j</Name>
+                <NewModeNumber>0</NewModeNumber>
+                <OnClick>btn_FontSwitch_OnClick</OnClick>
+                <PushedImage>0</PushedImage>
+                <Text>k8x12j</Text>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>65527</TextColor>
+                <Top>1</Top>
+                <Visible>True</Visible>
+                <Width>78</Width>
+                <ZOrder>6</ZOrder>
               </GUIButton>
             </Controls>
           </GUIMain>
@@ -2761,6 +2785,20 @@
         <PointSize>9</PointSize>
         <SizeMultiplier>1</SizeMultiplier>
         <SourceFilename>C:\Users\erico\git\ericoporto\pixel-utf8-fonts\pixellocale\pixellocale-v-1-4.ttf</SourceFilename>
+        <TTFMetricsFixup>None</TTFMetricsFixup>
+        <VerticalOffset>0</VerticalOffset>
+      </Font>
+      <Font>
+        <AutoOutlineStyle>Squared</AutoOutlineStyle>
+        <AutoOutlineThickness>1</AutoOutlineThickness>
+        <ID>9</ID>
+        <LineSpacing>0</LineSpacing>
+        <Name>k8x12j</Name>
+        <OutlineFont>0</OutlineFont>
+        <OutlineStyle>Automatic</OutlineStyle>
+        <PointSize>12</PointSize>
+        <SizeMultiplier>1</SizeMultiplier>
+        <SourceFilename>C:\Users\erico\git\ericoporto\pixel-utf8-fonts\k8x12j\k8x12j.ttf</SourceFilename>
         <TTFMetricsFixup>None</TTFMetricsFixup>
         <VerticalOffset>0</VerticalOffset>
       </Font>

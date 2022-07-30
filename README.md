@@ -6,6 +6,7 @@ See in engine demo: [ericoporto.github.io/pixel-utf8-fonts/](https://ericoporto.
 
 | name            | Download                                | License                          | Completeness    | Height |
 |-----------------|-----------------------------------------|----------------------------------|-----------------|--------|
+| k8x12j          | [🔽](k8x12j/k8x12j.ttf)                 | [📜](k8x12j/LICENSE.txt)         | incomplete      | 12px   |
 | lana pixel      | [🔽](lanapixel/LanaPixel.ttf)           | [📜](lanapixel/LICENSE.txt)      | Almost Complete | 11px   |
 | pixel locale    | [🔽](pixellocale/pixellocale-v-1-4.ttf) | [📜](pixellocale/LICENSE.txt)    | Incomplete      | 9px    |
 | pixel unicode   | [🔽](pixel_unicode/Pixel-UniCode.ttf)   | [📜](pixel_unicode/LICENSE.txt)  | Incomplete      | 16px   |
