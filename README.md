@@ -1,5 +1,6 @@
 # pixel-utf8-fonts
-Archival collection of fonts I didn't make, see their individual license
+
+An archival collection of fonts I didn't make, see their individual license.
 
 See in engine demo: [ericoporto.github.io/pixel-utf8-fonts/](https://ericoporto.github.io/pixel-utf8-fonts/index.html)
 
